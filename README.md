@@ -1,2 +1,2 @@
 # ShopSphere-ecommerce
-Join our student-led team developing Shopsphere, a cutting-edge MERN stack ecommerce platform revolutionizing online retail.
+Shopsphere, an innovative ecommerce website utilizing frontend technologies like React, React Native, Angular, HTML, CSS, JavaScript, and Bootstrap. This project serves as a hands-on learning experience, where I'm honing my frontend skills while concurrently delving into backend development. With a focus on user-centric design, secure authentication, and seamless navigation, Shopsphere aims to redefine online shopping experiences, while my ongoing journey in backend development enriches the project with evolving expertise and insights.
